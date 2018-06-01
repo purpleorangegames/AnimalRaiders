@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>AnimalRaiders</name>
+	<author>tiagocc0</author>
+	<targetVersion>0.18.1722</targetVersion>
+	<description>If animals are used to attack on a siege will give an error since it checks if one of the pawns can build the mortar but the animal shouldn't be checked. Just added a check equal to NULL.</description>
+	<url></url>
+</ModMetaData>
